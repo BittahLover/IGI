@@ -1,0 +1,12 @@
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\bin\Debug\net5.0\WebApplication2.Shared.deps.json
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\bin\Debug\net5.0\WebApplication2.Shared.dll
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\bin\Debug\net5.0\ref\WebApplication2.Shared.dll
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\bin\Debug\net5.0\WebApplication2.Shared.pdb
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\obj\Debug\net5.0\WebApplication2.Shared.csproj.AssemblyReference.cache
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\obj\Debug\net5.0\WebApplication2.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\obj\Debug\net5.0\WebApplication2.Shared.AssemblyInfoInputs.cache
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\obj\Debug\net5.0\WebApplication2.Shared.AssemblyInfo.cs
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\obj\Debug\net5.0\WebApplication2.Shared.csproj.CoreCompileInputs.cache
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\obj\Debug\net5.0\WebApplication2.Shared.dll
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\obj\Debug\net5.0\ref\WebApplication2.Shared.dll
+E:\University\third-year\IGI\lab1\WEB_953502_Vecherinsky\WebApplication2\Shared\obj\Debug\net5.0\WebApplication2.Shared.pdb
